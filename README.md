@@ -42,7 +42,7 @@ git push -u origin main
 5. 点击 "Save"
 6. 等待几分钟，GitHub 会为你部署网站
 7. 部署完成后，你可以通过 https://your-username.github.io/your-repository-name 访问你的网站
-
+https://T0NYLau.github.io/page-test
 ## 自定义域名（可选）
 
 如果你想使用自定义域名，可以在 GitHub Pages 设置中添加你的域名，并在你的域名提供商处设置相应的 DNS 记录。
